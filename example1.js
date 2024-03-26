@@ -46,17 +46,5 @@ const travel_2  = {
 
     
 
-    // if (money >= travel_2.cost   ) {
-
-    //     let resort = "congratulations on your trip to Italy"
-    //     console.log (resort)
-
-    // }
-    // else {
-    //     let resort = "lack of funds"
-    
-    //     console.log (resort)
-    // }
-
-    // console.log (resort)
+   
        
